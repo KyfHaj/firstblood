@@ -1,0 +1,1 @@
+APB1 cho Timer co x2 => 72MHZ max cho Timer2,3,4,...(stm32f103c8t6)
